@@ -113,15 +113,19 @@
 
 <h2 align="left">📬 Let's Connect:</h2>
 <div align="left">
-  <a href="mailto:hendriusfelix.dev@gmail.com">
+   <!-- Instagram -->
+  <a href="https://www.instagram.com/hendriusfelix?utm_source=qr&igsh=MXJ0ODNnNjA5c29rdg==">
      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+   <!-- Discord -->
   <a href="mailto:hendriusfelix.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:hendriusfelix.dev@gmail.com">
+   <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/hendriusfelix/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+   <!-- Mail -->
   <a href="mailto:hendriusfelix.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -137,10 +141,9 @@
 
 ---
 
-<h2 align="center">🎵 Now Playing on Spotify:</h2>
+<h2 align="center">🎵 Playing on Spotify:</h2>
 <p align="center">
-   
-  <a href="https://open.spotify.com/user/hendriusfelix">
+  <a href="https://open.spotify.com/user/hendriusfelix" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=hendriusfelix" alt="Spotify Recently Played">
   </a>
 </p>
