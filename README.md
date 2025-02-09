@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi! I'm Hendrius Félix</h2>
 <p align="center">
-   <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="100">
+   <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="150">
 </p>
 
 <h3 align="center">🎯 Fullstack Developer | Mechanical Engineer | Software Enthusiast</h3>
@@ -11,7 +11,7 @@
 
 ### 🌟 About Me:
 
-- 🌐 Check out my [portfolio website](https://hendriusfelix.dev)
+- 🌐 Check out my [portfolio website](https://hendriusfelix.com.br/)
 - 🎓 Graduated in Mechanical Engineering and currently studying software development and technology innovation
 - 💻 Working as a fullstack web developer (Dass) since 2024
 - 🚀 Focused on building web applications with modern technologies
@@ -24,27 +24,20 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,python,cpp,arduino,django,flask,react,vue,html,css,nginx,docker,kubernetes,postgres,mysql,linux,bash,git,github,vscode,heroku,markdown" />
 </p>
 
----
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oondels/oondels/033fd3930d90d96cdf0ceada070c8539d1769806/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oondels/oondels/033fd3930d90d96cdf0ceada070c8539d1769806/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 <h2 align="left">🌱 Current Goals:</h2>
+
 - 🌍 Enhance my cloud computing skills  
 - 🔍 Explore DevOps tools and workflows  
 - 📚 Dive deeper into data structures and algorithms
-
----
-
-<h2 align="center">📊 My GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oondels&show_icons=true&theme=radical&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oondels&layout=compact&theme=radical&hide_border=true" height="180">
-</p>
-
----
-
-<h2 align="left">📝 Random Programming Quote:</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote">
-</p>
 
 ---
 
@@ -63,15 +56,18 @@
 
 ---
 
-<h2 align="center">🎵 Now Playing on Spotify:</h2>
+<h2 align="center">📊 My GitHub Stats:</h2>
 <p align="center">
-  <a href="https://open.spotify.com/user/hendriusfelix">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hendriusfelix&count=1" alt="Spotify Recently Played">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=oondels&show_icons=true&theme=radical&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oondels&layout=compact&theme=radical&hide_border=true" height="180">
 </p>
 
 ---
 
+<h2 align="center">🎵 Now Playing on Spotify:</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oondels/oondels/main/github-contribution-snake.svg" alt="Snake Animation">
+   
+  <a href="https://open.spotify.com/user/hendriusfelix">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hendriusfelix" alt="Spotify Recently Played">
+  </a>
 </p>
