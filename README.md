@@ -138,12 +138,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oondels&show_icons=true&theme=radical&hide_border=true" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oondels&layout=compact&theme=radical&hide_border=true" height="180">
 </p>
-
----
-
-<h2 align="center">🎵 Playing on Spotify:</h2>
-<p align="center">
-  <a href="https://open.spotify.com/user/hendriusfelix" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hendriusfelix" alt="Spotify Recently Played">
-  </a>
-</p>
