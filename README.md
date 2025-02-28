@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="150">
 </p>
 
-<h3 align="center">🎯 Fullstack Developer | Mechanical Engineer | Software Enthusiast</h3>
+<h3 align="center">🎯 Fullstack Developer | Engineer | Software Enthusiast</h3>
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about creating efficient, scalable, and user-focused solutions, blending my background in engineering with the limitless possibilities of software development.</p>
 
