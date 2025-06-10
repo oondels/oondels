@@ -1,7 +1,4 @@
 <h2 align="center">👋 Hi! I'm Hendrius Félix</h2>
-<p align="center">
-   <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="150">
-</p>
 
 <h3 align="center">🎯 Fullstack Developer | Engineer | Software Enthusiast</h3>
 
