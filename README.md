@@ -1,5 +1,9 @@
 <h2 align="center">👋 Hi! I'm Hendrius Félix</h2>
 
+*"Outstanding performance is not a gift, it’s a habit.*"
+
+— inspired by: ***Talent is Overrated***
+
 <h3 align="center">🎯 Fullstack Developer | Engineer | Software Enthusiast</h3>
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about creating efficient, scalable, and user-focused solutions, blending my background in engineering with the limitless possibilities of software development.</p>
