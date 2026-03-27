@@ -12,7 +12,7 @@
 
 ### 🌟 About Me:
 
-- 🌐 Check out my [portfolio website](https://hendriusfelix.com.br/){:target="_blank" rel="noopener noreferrer"}
+- 🌐 Check out my [portfolio website](https://wwww.hendriusfelix.com.br/)
 - 🎓 Graduated in Mechanical Engineering and currently studying software development and technology innovation
 - 💻 Working as a fullstack web developer (Dass) since 2024
 - 🚀 Focused on building web applications with modern technologies
@@ -36,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
